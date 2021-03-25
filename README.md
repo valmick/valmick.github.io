@@ -1,6 +1,5 @@
 ---
 title: Notes on Autism
-date: \today
 ---
 
 # Introduction
